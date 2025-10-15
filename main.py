@@ -1,11 +1,3 @@
-"""
-Sistema Back-end para Plataforma Robótica
-Engenharia de Software Sênior - Python/FastAPI
-
-Autor: Sistema de Back-end Robótico
-Versão: 1.0.0
-Descrição: Sistema modular para coleta, processamento e exposição de dados robóticos em tempo real
-"""
 
 import asyncio
 import json
