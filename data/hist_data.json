@@ -1,0 +1,1484 @@
+[
+  {
+    "timestamp_coleta": "2025-10-15T01:53:21.477681+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 137.9,
+          "distance": 29.2,
+          "temperature": 67.0
+        },
+        {
+          "id": 2,
+          "velocity": 131.1,
+          "distance": 28.1,
+          "temperature": 77.0
+        },
+        {
+          "id": 3,
+          "velocity": 153.4,
+          "distance": 19.9,
+          "temperature": 68.3
+        }
+      ],
+      "pallets": [
+        {
+          "id": 9,
+          "timestamp": "2025-10-15T01:53:21.477681+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": 0.63,
+          "y": -0.46,
+          "z": -0.43
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:53:21.477681+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 149.7,
+          "distance": 16.9,
+          "temperature": 75.9
+        },
+        {
+          "id": 2,
+          "velocity": 140.2,
+          "distance": 14.5,
+          "temperature": 78.2
+        },
+        {
+          "id": 3,
+          "velocity": 134.9,
+          "distance": 10.8,
+          "temperature": 76.8
+        }
+      ],
+      "pallets": [
+        {
+          "id": 88,
+          "timestamp": "2025-10-15T01:53:21.477681+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.71,
+          "y": 0.06,
+          "z": 0.13
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:53:23.488546+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 130.1,
+          "distance": 23.4,
+          "temperature": 77.2
+        },
+        {
+          "id": 2,
+          "velocity": 150.7,
+          "distance": 25.9,
+          "temperature": 74.0
+        },
+        {
+          "id": 3,
+          "velocity": 157.5,
+          "distance": 17.7,
+          "temperature": 68.7
+        }
+      ],
+      "pallets": [
+        {
+          "id": 57,
+          "timestamp": "2025-10-15T01:53:23.488546+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.16,
+          "y": -0.71,
+          "z": -0.84
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:53:25.492974+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 130.5,
+          "distance": 27.7,
+          "temperature": 67.4
+        },
+        {
+          "id": 2,
+          "velocity": 133.0,
+          "distance": 11.1,
+          "temperature": 76.3
+        },
+        {
+          "id": 3,
+          "velocity": 141.8,
+          "distance": 12.4,
+          "temperature": 71.6
+        }
+      ],
+      "pallets": [
+        {
+          "id": 61,
+          "timestamp": "2025-10-15T01:53:25.492974+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.75,
+          "y": 0.44,
+          "z": 0.67
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:53:27.490998+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 159.0,
+          "distance": 21.1,
+          "temperature": 76.9
+        },
+        {
+          "id": 2,
+          "velocity": 154.1,
+          "distance": 10.7,
+          "temperature": 79.7
+        },
+        {
+          "id": 3,
+          "velocity": 146.7,
+          "distance": 20.4,
+          "temperature": 71.0
+        }
+      ],
+      "pallets": [
+        {
+          "id": 29,
+          "timestamp": "2025-10-15T01:53:27.490998+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.6,
+          "y": 0.03,
+          "z": -0.91
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:53:29.491517+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 140.0,
+          "distance": 13.4,
+          "temperature": 68.7
+        },
+        {
+          "id": 2,
+          "velocity": 135.0,
+          "distance": 13.3,
+          "temperature": 69.4
+        },
+        {
+          "id": 3,
+          "velocity": 141.7,
+          "distance": 16.9,
+          "temperature": 75.5
+        }
+      ],
+      "pallets": [
+        {
+          "id": 39,
+          "timestamp": "2025-10-15T01:53:29.491517+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.71,
+          "y": -0.99,
+          "z": 0.13
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:53:31.490502+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 137.2,
+          "distance": 29.4,
+          "temperature": 74.1
+        },
+        {
+          "id": 2,
+          "velocity": 147.3,
+          "distance": 24.3,
+          "temperature": 78.3
+        },
+        {
+          "id": 3,
+          "velocity": 146.1,
+          "distance": 22.9,
+          "temperature": 79.2
+        }
+      ],
+      "pallets": [
+        {
+          "id": 50,
+          "timestamp": "2025-10-15T01:53:31.490502+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.38,
+          "y": -0.96,
+          "z": 0.23
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:53:33.489929+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 136.4,
+          "distance": 23.3,
+          "temperature": 68.7
+        },
+        {
+          "id": 2,
+          "velocity": 159.2,
+          "distance": 23.2,
+          "temperature": 67.6
+        },
+        {
+          "id": 3,
+          "velocity": 152.3,
+          "distance": 10.8,
+          "temperature": 67.6
+        }
+      ],
+      "pallets": [
+        {
+          "id": 100,
+          "timestamp": "2025-10-15T01:53:33.489929+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": 0.84,
+          "y": -0.28,
+          "z": 0.51
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:53:35.506387+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 137.5,
+          "distance": 27.1,
+          "temperature": 71.1
+        },
+        {
+          "id": 2,
+          "velocity": 137.7,
+          "distance": 17.3,
+          "temperature": 68.3
+        },
+        {
+          "id": 3,
+          "velocity": 152.3,
+          "distance": 29.7,
+          "temperature": 73.9
+        }
+      ],
+      "pallets": [
+        {
+          "id": 80,
+          "timestamp": "2025-10-15T01:53:35.506387+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.86,
+          "y": -0.33,
+          "z": -0.31
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:53:37.504137+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 152.7,
+          "distance": 24.6,
+          "temperature": 72.2
+        },
+        {
+          "id": 2,
+          "velocity": 139.7,
+          "distance": 21.4,
+          "temperature": 79.9
+        },
+        {
+          "id": 3,
+          "velocity": 159.5,
+          "distance": 24.8,
+          "temperature": 71.9
+        }
+      ],
+      "pallets": [
+        {
+          "id": 80,
+          "timestamp": "2025-10-15T01:53:37.504137+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.24,
+          "y": -0.35,
+          "z": -0.39
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:53:39.507200+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 143.0,
+          "distance": 25.8,
+          "temperature": 73.3
+        },
+        {
+          "id": 2,
+          "velocity": 148.0,
+          "distance": 13.6,
+          "temperature": 67.2
+        },
+        {
+          "id": 3,
+          "velocity": 155.5,
+          "distance": 13.2,
+          "temperature": 75.7
+        }
+      ],
+      "pallets": [
+        {
+          "id": 31,
+          "timestamp": "2025-10-15T01:53:39.507200+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.64,
+          "y": -0.32,
+          "z": -0.75
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:53:41.539133+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 139.9,
+          "distance": 19.0,
+          "temperature": 67.7
+        },
+        {
+          "id": 2,
+          "velocity": 156.6,
+          "distance": 29.8,
+          "temperature": 69.0
+        },
+        {
+          "id": 3,
+          "velocity": 149.4,
+          "distance": 22.0,
+          "temperature": 67.0
+        }
+      ],
+      "pallets": [
+        {
+          "id": 93,
+          "timestamp": "2025-10-15T01:53:41.539133+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.33,
+          "y": -0.93,
+          "z": 0.11
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:53:43.538403+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 156.7,
+          "distance": 12.0,
+          "temperature": 74.4
+        },
+        {
+          "id": 2,
+          "velocity": 150.2,
+          "distance": 14.8,
+          "temperature": 66.7
+        },
+        {
+          "id": 3,
+          "velocity": 156.5,
+          "distance": 26.7,
+          "temperature": 67.3
+        }
+      ],
+      "pallets": [
+        {
+          "id": 22,
+          "timestamp": "2025-10-15T01:53:43.538403+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.8,
+          "y": 0.29,
+          "z": -0.08
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:53:45.539078+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 152.9,
+          "distance": 11.4,
+          "temperature": 74.2
+        },
+        {
+          "id": 2,
+          "velocity": 154.8,
+          "distance": 14.2,
+          "temperature": 78.1
+        },
+        {
+          "id": 3,
+          "velocity": 155.0,
+          "distance": 29.9,
+          "temperature": 76.3
+        }
+      ],
+      "pallets": [
+        {
+          "id": 19,
+          "timestamp": "2025-10-15T01:53:45.539078+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.21,
+          "y": 0.77,
+          "z": -0.53
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:53:47.551682+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 149.5,
+          "distance": 18.3,
+          "temperature": 78.4
+        },
+        {
+          "id": 2,
+          "velocity": 150.6,
+          "distance": 16.3,
+          "temperature": 77.5
+        },
+        {
+          "id": 3,
+          "velocity": 130.5,
+          "distance": 11.1,
+          "temperature": 79.3
+        }
+      ],
+      "pallets": [
+        {
+          "id": 91,
+          "timestamp": "2025-10-15T01:53:47.551682+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.62,
+          "y": 0.3,
+          "z": -0.45
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:53:49.557672+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 144.8,
+          "distance": 19.8,
+          "temperature": 66.2
+        },
+        {
+          "id": 2,
+          "velocity": 155.7,
+          "distance": 11.7,
+          "temperature": 68.8
+        },
+        {
+          "id": 3,
+          "velocity": 150.7,
+          "distance": 19.6,
+          "temperature": 78.3
+        }
+      ],
+      "pallets": [
+        {
+          "id": 67,
+          "timestamp": "2025-10-15T01:53:49.557672+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.65,
+          "y": 0.81,
+          "z": -0.64
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:53:51.572340+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 134.4,
+          "distance": 27.0,
+          "temperature": 72.7
+        },
+        {
+          "id": 2,
+          "velocity": 135.5,
+          "distance": 16.8,
+          "temperature": 67.3
+        },
+        {
+          "id": 3,
+          "velocity": 147.3,
+          "distance": 14.2,
+          "temperature": 78.1
+        }
+      ],
+      "pallets": [
+        {
+          "id": 57,
+          "timestamp": "2025-10-15T01:53:51.572340+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.23,
+          "y": 0.75,
+          "z": -0.11
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:53:53.589077+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 132.0,
+          "distance": 25.9,
+          "temperature": 78.8
+        },
+        {
+          "id": 2,
+          "velocity": 153.5,
+          "distance": 15.1,
+          "temperature": 68.6
+        },
+        {
+          "id": 3,
+          "velocity": 152.0,
+          "distance": 17.0,
+          "temperature": 79.1
+        }
+      ],
+      "pallets": [
+        {
+          "id": 98,
+          "timestamp": "2025-10-15T01:53:53.589077+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.66,
+          "y": -0.77,
+          "z": 0.51
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:53:55.605390+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 130.2,
+          "distance": 24.7,
+          "temperature": 70.7
+        },
+        {
+          "id": 2,
+          "velocity": 151.6,
+          "distance": 23.2,
+          "temperature": 73.0
+        },
+        {
+          "id": 3,
+          "velocity": 144.3,
+          "distance": 22.8,
+          "temperature": 68.6
+        }
+      ],
+      "pallets": [
+        {
+          "id": 90,
+          "timestamp": "2025-10-15T01:53:55.605390+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": 0.34,
+          "y": -0.72,
+          "z": 0.52
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:53:57.623031+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 147.2,
+          "distance": 12.2,
+          "temperature": 65.6
+        },
+        {
+          "id": 2,
+          "velocity": 153.4,
+          "distance": 10.6,
+          "temperature": 76.7
+        },
+        {
+          "id": 3,
+          "velocity": 148.3,
+          "distance": 21.2,
+          "temperature": 73.9
+        }
+      ],
+      "pallets": [
+        {
+          "id": 87,
+          "timestamp": "2025-10-15T01:53:57.623031+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.7,
+          "y": -0.87,
+          "z": 0.89
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:53:59.641774+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 140.0,
+          "distance": 24.8,
+          "temperature": 78.3
+        },
+        {
+          "id": 2,
+          "velocity": 157.3,
+          "distance": 22.3,
+          "temperature": 77.7
+        },
+        {
+          "id": 3,
+          "velocity": 153.2,
+          "distance": 11.2,
+          "temperature": 74.3
+        }
+      ],
+      "pallets": [
+        {
+          "id": 67,
+          "timestamp": "2025-10-15T01:53:59.640704+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.77,
+          "y": 0.86,
+          "z": -0.11
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:54:01.655104+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 131.6,
+          "distance": 14.5,
+          "temperature": 72.7
+        },
+        {
+          "id": 2,
+          "velocity": 146.6,
+          "distance": 19.0,
+          "temperature": 75.3
+        },
+        {
+          "id": 3,
+          "velocity": 151.1,
+          "distance": 20.2,
+          "temperature": 74.9
+        }
+      ],
+      "pallets": [
+        {
+          "id": 74,
+          "timestamp": "2025-10-15T01:54:01.655104+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.14,
+          "y": -0.56,
+          "z": -0.43
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:54:03.656513+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 156.2,
+          "distance": 24.4,
+          "temperature": 66.7
+        },
+        {
+          "id": 2,
+          "velocity": 139.8,
+          "distance": 26.7,
+          "temperature": 74.1
+        },
+        {
+          "id": 3,
+          "velocity": 145.6,
+          "distance": 24.5,
+          "temperature": 66.3
+        }
+      ],
+      "pallets": [
+        {
+          "id": 40,
+          "timestamp": "2025-10-15T01:54:03.655489+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": 0.62,
+          "y": -0.64,
+          "z": 0.56
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:54:05.671712+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 136.8,
+          "distance": 29.7,
+          "temperature": 71.2
+        },
+        {
+          "id": 2,
+          "velocity": 149.8,
+          "distance": 21.8,
+          "temperature": 65.8
+        },
+        {
+          "id": 3,
+          "velocity": 142.7,
+          "distance": 25.1,
+          "temperature": 68.6
+        }
+      ],
+      "pallets": [
+        {
+          "id": 31,
+          "timestamp": "2025-10-15T01:54:05.671712+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.59,
+          "y": -0.42,
+          "z": 0.37
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:54:07.687809+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 138.3,
+          "distance": 25.3,
+          "temperature": 67.9
+        },
+        {
+          "id": 2,
+          "velocity": 148.3,
+          "distance": 22.3,
+          "temperature": 77.7
+        },
+        {
+          "id": 3,
+          "velocity": 135.1,
+          "distance": 16.1,
+          "temperature": 75.9
+        }
+      ],
+      "pallets": [
+        {
+          "id": 34,
+          "timestamp": "2025-10-15T01:54:07.687809+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.85,
+          "y": 0.9,
+          "z": -0.44
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:54:09.692916+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 157.0,
+          "distance": 18.4,
+          "temperature": 74.8
+        },
+        {
+          "id": 2,
+          "velocity": 135.4,
+          "distance": 11.9,
+          "temperature": 66.9
+        },
+        {
+          "id": 3,
+          "velocity": 132.0,
+          "distance": 21.6,
+          "temperature": 75.5
+        }
+      ],
+      "pallets": [
+        {
+          "id": 13,
+          "timestamp": "2025-10-15T01:54:09.692916+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.42,
+          "y": -0.86,
+          "z": -1.0
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:54:11.703798+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 157.8,
+          "distance": 23.2,
+          "temperature": 72.9
+        },
+        {
+          "id": 2,
+          "velocity": 149.1,
+          "distance": 13.4,
+          "temperature": 74.5
+        },
+        {
+          "id": 3,
+          "velocity": 145.8,
+          "distance": 14.4,
+          "temperature": 75.1
+        }
+      ],
+      "pallets": [
+        {
+          "id": 23,
+          "timestamp": "2025-10-15T01:54:11.703798+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.32,
+          "y": 0.62,
+          "z": -0.03
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:54:13.720875+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 156.9,
+          "distance": 25.4,
+          "temperature": 71.9
+        },
+        {
+          "id": 2,
+          "velocity": 139.2,
+          "distance": 13.8,
+          "temperature": 65.5
+        },
+        {
+          "id": 3,
+          "velocity": 148.2,
+          "distance": 25.8,
+          "temperature": 65.8
+        }
+      ],
+      "pallets": [
+        {
+          "id": 6,
+          "timestamp": "2025-10-15T01:54:13.720875+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": 0.6,
+          "y": -0.63,
+          "z": -0.53
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:54:15.721657+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 142.7,
+          "distance": 28.5,
+          "temperature": 68.3
+        },
+        {
+          "id": 2,
+          "velocity": 130.4,
+          "distance": 17.9,
+          "temperature": 71.2
+        },
+        {
+          "id": 3,
+          "velocity": 151.4,
+          "distance": 23.5,
+          "temperature": 79.1
+        }
+      ],
+      "pallets": [
+        {
+          "id": 85,
+          "timestamp": "2025-10-15T01:54:15.721657+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": 0.03,
+          "y": 0.75,
+          "z": -0.65
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:54:17.735744+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 133.2,
+          "distance": 28.5,
+          "temperature": 74.9
+        },
+        {
+          "id": 2,
+          "velocity": 133.4,
+          "distance": 20.9,
+          "temperature": 78.5
+        },
+        {
+          "id": 3,
+          "velocity": 154.0,
+          "distance": 18.0,
+          "temperature": 73.3
+        }
+      ],
+      "pallets": [
+        {
+          "id": 19,
+          "timestamp": "2025-10-15T01:54:17.735744+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.28,
+          "y": -0.37,
+          "z": 0.35
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:54:19.753964+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 147.3,
+          "distance": 29.6,
+          "temperature": 75.0
+        },
+        {
+          "id": 2,
+          "velocity": 130.2,
+          "distance": 13.8,
+          "temperature": 66.0
+        },
+        {
+          "id": 3,
+          "velocity": 154.9,
+          "distance": 15.4,
+          "temperature": 75.7
+        }
+      ],
+      "pallets": [
+        {
+          "id": 64,
+          "timestamp": "2025-10-15T01:54:19.753269+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": 0.25,
+          "y": 0.44,
+          "z": 0.11
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:54:21.771396+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 135.9,
+          "distance": 17.6,
+          "temperature": 73.3
+        },
+        {
+          "id": 2,
+          "velocity": 154.5,
+          "distance": 15.1,
+          "temperature": 67.8
+        },
+        {
+          "id": 3,
+          "velocity": 145.9,
+          "distance": 19.4,
+          "temperature": 69.8
+        }
+      ],
+      "pallets": [
+        {
+          "id": 32,
+          "timestamp": "2025-10-15T01:54:21.771396+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": 0.36,
+          "y": -0.12,
+          "z": -0.36
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:54:23.788236+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 142.8,
+          "distance": 15.3,
+          "temperature": 77.1
+        },
+        {
+          "id": 2,
+          "velocity": 136.8,
+          "distance": 20.6,
+          "temperature": 72.3
+        },
+        {
+          "id": 3,
+          "velocity": 135.8,
+          "distance": 13.6,
+          "temperature": 73.9
+        }
+      ],
+      "pallets": [
+        {
+          "id": 23,
+          "timestamp": "2025-10-15T01:54:23.787527+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.57,
+          "y": 0.66,
+          "z": 0.46
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:54:25.786845+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 150.6,
+          "distance": 24.0,
+          "temperature": 76.8
+        },
+        {
+          "id": 2,
+          "velocity": 146.8,
+          "distance": 14.6,
+          "temperature": 66.2
+        },
+        {
+          "id": 3,
+          "velocity": 133.8,
+          "distance": 20.6,
+          "temperature": 71.2
+        }
+      ],
+      "pallets": [
+        {
+          "id": 4,
+          "timestamp": "2025-10-15T01:54:25.786845+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": 0.67,
+          "y": -0.85,
+          "z": 0.52
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:54:27.788429+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 144.9,
+          "distance": 14.7,
+          "temperature": 75.4
+        },
+        {
+          "id": 2,
+          "velocity": 133.8,
+          "distance": 16.0,
+          "temperature": 73.6
+        },
+        {
+          "id": 3,
+          "velocity": 139.8,
+          "distance": 16.3,
+          "temperature": 72.6
+        }
+      ],
+      "pallets": [
+        {
+          "id": 35,
+          "timestamp": "2025-10-15T01:54:27.788429+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": 0.41,
+          "y": -0.63,
+          "z": -0.05
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:54:29.802857+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 151.8,
+          "distance": 24.7,
+          "temperature": 75.5
+        },
+        {
+          "id": 2,
+          "velocity": 151.2,
+          "distance": 29.6,
+          "temperature": 71.0
+        },
+        {
+          "id": 3,
+          "velocity": 144.1,
+          "distance": 13.2,
+          "temperature": 73.5
+        }
+      ],
+      "pallets": [
+        {
+          "id": 42,
+          "timestamp": "2025-10-15T01:54:29.802857+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.65,
+          "y": -0.75,
+          "z": 0.87
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:54:31.810598+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 159.6,
+          "distance": 10.9,
+          "temperature": 69.4
+        },
+        {
+          "id": 2,
+          "velocity": 152.0,
+          "distance": 18.7,
+          "temperature": 76.8
+        },
+        {
+          "id": 3,
+          "velocity": 157.2,
+          "distance": 10.3,
+          "temperature": 69.6
+        }
+      ],
+      "pallets": [
+        {
+          "id": 25,
+          "timestamp": "2025-10-15T01:54:31.810598+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.74,
+          "y": -0.43,
+          "z": 0.5
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:54:33.818850+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 155.6,
+          "distance": 22.8,
+          "temperature": 65.1
+        },
+        {
+          "id": 2,
+          "velocity": 137.2,
+          "distance": 11.2,
+          "temperature": 68.0
+        },
+        {
+          "id": 3,
+          "velocity": 134.5,
+          "distance": 26.6,
+          "temperature": 71.4
+        }
+      ],
+      "pallets": [
+        {
+          "id": 1,
+          "timestamp": "2025-10-15T01:54:33.818850+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": -0.44,
+          "y": 0.81,
+          "z": -0.94
+        }
+      }
+    }
+  },
+  {
+    "timestamp_coleta": "2025-10-15T01:54:35.824859+00:00",
+    "data": {
+      "motors": [
+        {
+          "id": 1,
+          "velocity": 158.6,
+          "distance": 14.4,
+          "temperature": 70.9
+        },
+        {
+          "id": 2,
+          "velocity": 136.3,
+          "distance": 19.1,
+          "temperature": 79.8
+        },
+        {
+          "id": 3,
+          "velocity": 144.6,
+          "distance": 10.3,
+          "temperature": 73.6
+        }
+      ],
+      "pallets": [
+        {
+          "id": 47,
+          "timestamp": "2025-10-15T01:54:35.824859+00:00"
+        }
+      ],
+      "giroscopio": {
+        "centroid": {
+          "x": 0.64,
+          "y": -1.0,
+          "z": 0.8
+        }
+      }
+    }
+  }
+]

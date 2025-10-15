@@ -1,0 +1,35 @@
+{
+  "motors": [
+    {
+      "id": 1,
+      "velocity": 158.6,
+      "distance": 14.4,
+      "temperature": 70.9
+    },
+    {
+      "id": 2,
+      "velocity": 136.3,
+      "distance": 19.1,
+      "temperature": 79.8
+    },
+    {
+      "id": 3,
+      "velocity": 144.6,
+      "distance": 10.3,
+      "temperature": 73.6
+    }
+  ],
+  "pallets": [
+    {
+      "id": 47,
+      "timestamp": "2025-10-15T01:54:35.824859+00:00"
+    }
+  ],
+  "giroscopio": {
+    "centroid": {
+      "x": 0.64,
+      "y": -1.0,
+      "z": 0.8
+    }
+  }
+}
