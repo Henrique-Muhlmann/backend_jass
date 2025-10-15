@@ -19,7 +19,6 @@ Sistema modular de back-end para plataforma robótica com coleta, processamento 
 - [Arquivos Gerados](#arquivos-gerados)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Integração com Hardware Real](#integração-com-hardware-real)
-- [Troubleshooting](#troubleshooting)
 
 ## Visão Geral
 
